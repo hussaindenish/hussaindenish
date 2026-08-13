@@ -158,29 +158,6 @@ Hands-on AWS foundational lab covering EC2, S3, IAM, and AWS CLI. Configured sec
 
 ---
 
-### `$ cat github-analytics.log`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hussaindenish&show_icons=true&theme=transparent&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=39FF14&border_color=39FF14&hide_border=false" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=hussaindenish&theme=dark&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=39FF14&border=39FF14" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaindenish&layout=compact&theme=transparent&bg_color=0D1117&title_color=39FF14&text_color=39FF14&border_color=39FF14&hide_border=false" width="48%"/>
-
-</div>
-
----
-
-### `$ ./show-trophies.sh`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hussaindenish&theme=matrix&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true" width="100%"/>
-
-</div>
-
----
-
 ### `$ tail -f activity-graph.log`
 
 <div align="center">
