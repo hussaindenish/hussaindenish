@@ -37,8 +37,7 @@
 Aspiring DevOps Engineer with hands-on experience in AWS, Linux administration, CI/CD automation, Docker, and Infrastructure as Code. I build practical automation projects using Jenkins, Ansible, Terraform, and Bash scripting — currently sharpening my cloud and reliability engineering fundamentals to break into a full-time DevOps/Cloud role.
 
 ```bash
-ROLE     = "DevOps Trainee"
-EXP      = "Entry Level"
+ROLE     = "DevOps Engineer"
 DOMAIN   = "DevOps, Cloud Infrastructure"
 STACK    = ["AWS", "Docker", "Jenkins", "Ansible", "Terraform", "Bash", "Python"]
 OPEN_TO  = ["DevOps Engineer", "Cloud Engineer", "SRE"]
