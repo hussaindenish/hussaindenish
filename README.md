@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:39FF14&height=220&section=header&text=Danish%20Hussain&fontSize=55&fontColor=39FF14&fontAlignY=40&desc=DevOps%20Trainee%20%7C%20Cloud%20%26%20Automation&descAlignY=60&descColor=39FF14&animation=fadeIn" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=%24+whoami+%3E+devops-trainee;%24+stack+%3E+aws+%2B+docker+%2B+jenkins+%2B+ansible;%24+focus+%3E+ci%2Fcd+automation+%2B+iac;%24+status+%3E+open_to_work+%3D%3D+true" alt="Typing SVG" />
 
 </div>
